@@ -23,6 +23,7 @@ To run the project locally, follow these steps:
 
 -Clone the repository to your local machine.
 -Navigate to the project directory.
+-Run composer install.
 -Install dependencies by running *npm install* for the frontend and *composer install* for the backend.
 -Set up the database and configure the database connection in the Laravel .env file.
 -Run migrations to create the necessary tables in the database: php artisan migrate.
